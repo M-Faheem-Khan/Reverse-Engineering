@@ -9,8 +9,10 @@ Learning to Reverse Engineer & Exploiting Binaries
 - Decompilers: `IDA / Ghidra`
 
 
-Note
+#### Note  
 All binaries can be found in the `levels` folder and are compiled using gcc on ubuntu. Source Code is available in `src` folder. Walkthrough are also available under `walkthrough` folder.
+
+Flag format: `RevEng{some_string_here}`
 
 
 ### Binaries
