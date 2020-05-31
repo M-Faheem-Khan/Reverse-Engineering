@@ -6,11 +6,13 @@ Learning to Reverse Engineer & Exploiting Binaries
 - `strace`
 - `ltrace`
 - `Hexdump`
-- Decompilers: `IDA / Ghidra`
+- Decompilers: `gdb / IDA / Ghidra `
 
 
-Note
+#### Note  
 All binaries can be found in the `levels` folder and are compiled using gcc on ubuntu. Source Code is available in `src` folder. Walkthrough are also available under `walkthrough` folder.
+
+Flag format: `RevEng{some_string_here}`
 
 
 ### Binaries
