@@ -6,7 +6,7 @@ Learning to Reverse Engineer & Exploiting Binaries
 - `strace`
 - `ltrace`
 - `Hexdump`
-- Decompilers: `IDA / Ghidra`
+- Decompilers: `gdb / IDA / Ghidra `
 
 
 #### Note  
